@@ -11,6 +11,12 @@
 
 ## Usage
 
+To install useItJS you can use the hosted CDN or download. NPM installation wil be coming soon.
+
+```markup
+<script src="https://cdn.clarkhacks.com/useIt.min.js"></script>
+```
+
 #### Fragments
 
 __ui.set(_template_, _domID_, _create_)__
